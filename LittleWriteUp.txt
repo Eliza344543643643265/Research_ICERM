@@ -1,0 +1,28 @@
+ANALYZING & OPTIMIZING EFFICIENCY OF SCHOOL LUNCH PROGRAMS
+
+A1. Framework to eliminate food insecurity using C1:
+Meal debt (downward trend),
+Test Scores (upward trend),
+Attendance (upward trend)
+
+B1. Keep an eye on:
+Correlation /= Causation 
+Budget Constraints
+
+C1. Factors that affect outcomes (A1) :
+Free school lunch program ~~~ Should be used to optimize A1 
+
+Training Data (Use this to make optimized model for C1):
+Regions that try universal lunch
+Regions that removed universal lunch
+
+Testing the optimized model with:
+Future budget allocations
+Potential budgets for USLPS
+
+
+FURTHER RESEARCH:
+
+Efficiency (Variables) ~
+1. Elibility
+2. Nutritional Value
